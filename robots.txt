@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bodyrxwasule.github.io/sitemap.xml
